@@ -8,7 +8,7 @@
 - 🎓 &nbsp; Pursuing a Bachelor's of Engineering in Computer Engineering @ YorkU.
 - 🔭 &nbsp; Actively seeking Summer 2024 SWE internships to apply my skills in real-world scenarios.
 - 🧠 &nbsp; Eagerly expanding my expertise in critical domains such as Cloud Architecture, Systems Design, and Artificial Intelligence, enriching my understanding of computational frameworks.
-- ✒️ &nbsp; When I'm not coding, I'm refining my skills in User Interface Design and Website Developmentment, channeling my creativity into crafting seamless digital experiences.
+- ✒️ &nbsp; When I'm not coding, I'm refining my skills in User Interface Design and Website Development, channeling my creativity into crafting seamless digital experiences.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
