@@ -6,7 +6,7 @@
 
 - 🚀 &nbsp; Enthusiastic about delving into cutting-edge technologies and crafting inventive software solutions.
 - 🎓 &nbsp; Pursuing a Bachelor's of Engineering in Computer Engineering @ YorkU.
-- 🔭 &nbsp; Incoming Software QA Analyst Intern @ theScore.
+- 🔭 &nbsp; Software QA Analyst Intern @ theScore.
 - 🧠 &nbsp; Eagerly expanding my expertise in critical domains such as Cloud Architecture, Systems Design, and Artificial Intelligence, enriching my understanding of computational frameworks.
 - ✒️ &nbsp; When I'm not coding, I'm refining my skills in User Interface Design and Website Development, channeling my creativity into crafting seamless digital experiences.
 
